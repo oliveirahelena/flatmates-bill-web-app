@@ -1,6 +1,6 @@
-# Projeto Base Python
+# Flatmates's Bill Web App
 
-Projeto base para iniciar qualquer projeto Python.
+Projeto em Python com a versão web da aplicação Flatmates's Bill.
 
 ## Instalar dependências
 
