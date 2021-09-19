@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pydantic = "*"
+fpdf = "*"
+flask = "*"
+wtforms = "*"
 
 [dev-packages]
 pytest-cov = "*"
